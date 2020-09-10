@@ -1,0 +1,13 @@
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\bin\Debug\netcoreapp3.1\XMLparserTest.exe
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\obj\Debug\netcoreapp3.1\XMLparserTest.csprojAssemblyReference.cache
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\obj\Debug\netcoreapp3.1\XMLparserTest.AssemblyInfoInputs.cache
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\obj\Debug\netcoreapp3.1\XMLparserTest.AssemblyInfo.cs
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\bin\Debug\netcoreapp3.1\XMLparserTest.deps.json
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\bin\Debug\netcoreapp3.1\XMLparserTest.runtimeconfig.json
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\bin\Debug\netcoreapp3.1\XMLparserTest.runtimeconfig.dev.json
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\bin\Debug\netcoreapp3.1\XMLparserTest.dll
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\bin\Debug\netcoreapp3.1\XMLparserTest.pdb
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\obj\Debug\netcoreapp3.1\XMLparserTest.csproj.CoreCompileInputs.cache
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\obj\Debug\netcoreapp3.1\XMLparserTest.dll
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\obj\Debug\netcoreapp3.1\XMLparserTest.pdb
+C:\Users\Rumyancev\source\repos\XMLparserTest\XMLparserTest\obj\Debug\netcoreapp3.1\XMLparserTest.genruntimeconfig.cache
